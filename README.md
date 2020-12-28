@@ -1,0 +1,2 @@
+# unixodbc
+/opt/unixodbc
