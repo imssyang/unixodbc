@@ -1,0 +1,10 @@
+
+# 依赖
+apt install automake autoconf libtool
+
+# 编译
+./configure --prefix=/opt/unixodbc \
+--sysconfdir=/opt/unixodbc/conf \
+--enable-static=yes \
+--enable-shared=yes
+
